@@ -47,4 +47,4 @@ INHERITS (public.human)
 TABLESPACE pg_default;
 
 ALTER TABLE public.girl
-OWNER to "Giuseppe";
+OWNER to "alladin";
