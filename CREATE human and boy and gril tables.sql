@@ -6,7 +6,7 @@ PRIMARY KEY (id)
 );
 
 ALTER TABLE public.human
-OWNER to "Giuseppe";
+OWNER to "alladin";
 
 
 -- Table: public.boy
@@ -27,7 +27,7 @@ INHERITS (public.human)
 TABLESPACE pg_default;
 
 ALTER TABLE public.boy
-OWNER to "Giuseppe";
+OWNER to "alladin";
 
 -- Table: public.girl
 
